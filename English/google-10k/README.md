@@ -1,6 +1,17 @@
 About This Repo
 ===============
 
+[Original repo](https://github.com/first20hours/google-10000-english)
+Please check out the [varia](varia/) folder for credits & license.
+
+Most frequent Google words: 10k, 20k, all.
+
+Both versions available: as json, as txt.
+
+For the complete version, two json files available (dictionaries), one from word to frequency, the other reversed.
+
+---
+
 This repo contains a list of the 10,000 most common English words in order of frequency, as determined by [n-gram](https://en.wikipedia.org/wiki/N-gram) [frequency analysis](https://en.wikipedia.org/wiki/Frequency_analysis) of the [Google's Trillion Word Corpus](https://books.google.com/ngrams/info).
 
 According to the [Google Machine Translation Team](https://ai.googleblog.com/2006/08/all-our-n-gram-are-belong-to-you.html):
@@ -9,7 +20,7 @@ According to the [Google Machine Translation Team](https://ai.googleblog.com/200
 >
 >We believe that the entire research community can benefit from access to such massive amounts of data. It will advance the state of the art, it will focus research in the promising direction of large-scale, data-driven approaches, and it will allow all research groups, no matter how large or small their computing resources, to play together. That's why we decided to share this enormous dataset with everyone. We processed 1,024,908,267,229 words of running text and are publishing the counts for all 1,176,470,663 five-word sequences that appear at least 40 times. There are 13,588,391 unique words, after discarding words that appear less than 200 times.
 
-This repo is derived from [Peter Norvig's](https://norvig.com/ngrams/) compilation of the [1/3 million most frequent English words](https://norvig.com/ngrams/count_1w.txt). I limited this file to the 10,000 most common words, then removed the appended frequency counts by running this sed command in my text editor: 
+This repo is derived from [Peter Norvig's](https://norvig.com/ngrams/) compilation of the [1/3 million most frequent English words](https://norvig.com/ngrams/count_1w.txt). I limited this file to the 10,000 most common words, then removed the appended frequency counts by running this sed command in my text editor:
 
     sed 's/[0-9]*//g'
 
