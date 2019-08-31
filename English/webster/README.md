@@ -1,6 +1,11 @@
 English Language Dictionary
 ================================
 
+[Original repo](https://github.com/adambom/dictionary)
+Please check out the [varia](varia/) folder for credits & license, etc.
+
+---
+
 This repository houses the contents of Webster's Unabridged English Dictionary.
 
 The dictionary can be found in plain text form [here](http://www.gutenberg.org/ebooks/29765)
