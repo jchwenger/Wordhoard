@@ -19,3 +19,5 @@ cat cnam-info-utf8.txt | iconv -f UTF8 -t ASCII//TRANSLIT  | awk '{ print $2 }' 
 wc -l cnam-roots-ascii.txt
 
 python info2json.py
+
+mv *.txt *.json ../
