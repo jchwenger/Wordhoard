@@ -8,6 +8,6 @@
 <br>
 <br>
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;im se yldesta ondswarode,  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Him se yldesta ondswarode,  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;erodes wisa, wordhord onleac  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; — [*Beowulf*](https://www.poetryfoundation.org/poems/43521/beowulf-old-english-version)  
