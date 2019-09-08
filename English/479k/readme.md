@@ -20,5 +20,5 @@ Copyright still belongs to them.
 
 Files you may be interested in:
 
--  [words.txt](words.txt) and [words.json](words.json) contains all words.
--  [words_alpha.txt](words_alpha.txt) and [words_alpha.json](words_alpha.json) contains only [[:alpha:]] words (words that only have letters, no numbers or symbols). If you want a quick solution choose this.
+-  [479k.txt](479k.txt) and [479k.json](479k.json) contains all words.
+-  [479k_alpha.txt](479k_alpha.txt) and [479k_alpha.json](479k_alpha.json) contains only [[:alpha:]] words (words that only have letters, no numbers or symbols). If you want a quick solution choose this.
