@@ -15,7 +15,7 @@ do
 
   pos_name="results/${f%.raw.txt}-pos.txt"
   echo "saving POS entries to '$pos_name'"
-  cat "$1" \
+  cat "$f" \
     | grep -e "$pat" \
     >  "$pos_name"
   sed -i 's/ /\t/' "$pos_name"
