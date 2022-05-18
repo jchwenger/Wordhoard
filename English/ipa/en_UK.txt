@@ -57812,6 +57812,7 @@
 /θˈɔːɹɪŋ/	thawing
 /θˈɔːz/	thaws
 /θˈɔː/	thaw
+/ˈðə/, /ðə/, /ði/	the
 /θˈiətəz/	theaters
 /θˈiətɐ/	theater
 /θˈiətɹɪɡˌəʊəz/	theatregoers
