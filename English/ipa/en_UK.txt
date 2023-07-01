@@ -1898,6 +1898,7 @@
 /ˈænɪmɐ/	anima
 /ˈænɪməl/	animal
 /ˈænɪməlz/	animals
+/ˈænɪˌmeɪt/, /ˈænɪmət/	animate
 /ˈænɪmˌeɪtɪd/	animated
 /ˈænɪmˌeɪts/	animates
 /ˈænɪmˌeɪtɪŋ/	animating
