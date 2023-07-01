@@ -2792,6 +2792,7 @@
 /æɹˈuːɡjʊlɐ/	arugula
 /ˈæɹəm/	arum
 /ˈɑːvəʊ/	arvo
+/ˈæz/,/ˈəz/	as
 /ɐsˈæfiːtˌɪdɐ/	asafoetida
 /ˌeɪˌɛsˌeɪpˈiː/	asap
 /æsbˈɛstəs/	asbestos
