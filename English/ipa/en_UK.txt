@@ -2567,6 +2567,7 @@
 /ˈɑːdɐ/	ardour
 /ˈɑːdjuːəs/	arduous
 /ˈɑːdjuːəsli/	arduously
+/ˈɑː/, /ə/	are
 /ˈeəɹiə/	area
 /ˈeəɹiəl/	areal
 /ˈeəɹiəz/	areas
