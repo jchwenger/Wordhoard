@@ -1852,7 +1852,6 @@ outdoors	adv. B1
 outer	adj. B2
 outline	n., v. B2
 outside	adv. A1, prep., noun., adj.
-A2
 oven	n. A2
 over	prep., adv. A1
 overall	adj., adv. B2
@@ -3005,4 +3004,3 @@ yourself	pron. A1
 youth	n. B1
 zero	number A2
 zone	n. B2
-
