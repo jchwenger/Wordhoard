@@ -83,7 +83,6 @@ alcohol
 alcoholic
 alive
 all
-all
 allow
 almost
 alone
@@ -222,7 +221,6 @@ ban
 banana
 band
 bank
-bank
 bar
 barrier
 base
@@ -239,7 +237,6 @@ battle
 be
 beach
 bean
-bear
 bear
 beat
 beautiful
@@ -373,8 +370,7 @@ camp
 campaign
 camping
 campus
-can1
-can2
+can
 cancel
 cancer
 candidate
@@ -473,8 +469,7 @@ client
 climate
 climb
 clock
-close1
-close2
+close
 closed
 closely
 cloth
@@ -570,7 +565,7 @@ contact
 contain
 container
 contemporary
-content1
+content
 contest
 context
 continent
@@ -779,7 +774,7 @@ district
 divide
 division
 divorced
-do1
+do
 doctor
 document
 documentary
@@ -790,7 +785,6 @@ dominate
 donate
 door
 double
-adv.
 doubt
 down
 download
@@ -1224,7 +1218,6 @@ harmful
 hat
 hate
 have
-have
 he
 head
 headache
@@ -1305,7 +1298,6 @@ hurry
 hurt
 husband
 I
-ice
 ice
 idea
 ideal
@@ -1456,7 +1448,6 @@ kill
 killing
 kilometre
 kind
-kind
 king
 kiss
 kitchen
@@ -1479,8 +1470,7 @@ language
 laptop
 large
 largely
-last1
-last1
+last
 late
 later
 latest
@@ -1492,7 +1482,7 @@ lawyer
 lay
 layer
 lazy
-lead1
+lead
 leader
 leadership
 leading
@@ -1519,17 +1509,12 @@ letter
 level
 library
 licence
-lie1
-lie2
+lie
 life
 lifestyle
 lift
 light
-adj.
-light
 like
-like
-n.
 likely
 limit
 limited
@@ -1543,8 +1528,7 @@ listen
 listener
 literature
 little
-live1
-live2
+live
 lively
 living
 load
@@ -1556,7 +1540,7 @@ location
 lock
 logical
 lonely
-long1
+long
 long-term
 look
 loose
@@ -1608,7 +1592,6 @@ mass
 massive
 master
 match
-v.
 matching
 material
 mathematics
@@ -1654,13 +1637,12 @@ milk
 million
 mind
 mine
-mine
 mineral
 minimum
 minister
 minor
 minority
-minute1
+minute
 mirror
 miss
 missing
@@ -1744,14 +1726,12 @@ new
 news
 newspaper
 next
-next
 nice
 night
 nightmare
 nine
 nineteen
 ninety
-no
 no
 nobody
 noise
@@ -1903,10 +1883,9 @@ peaceful
 pen
 pencil
 penny
-pension1
+pension
 people
 pepper
-per
 per
 percentage
 perfect
@@ -1966,7 +1945,7 @@ pleased
 pleasure
 plenty
 plot
-plus1
+plus
 pocket
 poem
 poet
@@ -2119,7 +2098,6 @@ quite
 quotation
 quote
 race
-race
 racing
 radio
 railway
@@ -2168,7 +2146,7 @@ reduction
 refer
 reference
 reflect
-refuse1
+refuse
 regard
 region
 regional
@@ -2230,7 +2208,6 @@ response
 responsibility
 responsible
 rest
-rest
 restaurant
 result
 retain
@@ -2248,14 +2225,12 @@ rich
 rid
 ride
 right
-ring1
-ring2
+ring
 rise
 risk
 river
 road
 robot
-rock
 rock
 role
 roll
@@ -2268,7 +2243,7 @@ rough
 round
 route
 routine
-row1
+row
 royal
 rub
 rubber
@@ -2324,9 +2299,9 @@ sea
 search
 season
 seat
-second1
+second
 number
-second1
+second
 secondary
 secondly
 secret
@@ -2359,7 +2334,6 @@ servant
 serve
 service
 session
-set
 set
 setting
 settle
@@ -2548,7 +2522,6 @@ steel
 steep
 step
 stick
-stick
 sticky
 stiff
 still
@@ -2652,8 +2625,7 @@ teach
 teacher
 teaching
 team
-tear1
-tear2
+tear
 technical
 technique
 technology
@@ -2842,8 +2814,6 @@ urban
 urge
 us
 use
-used1
-used2
 used
 useful
 user
@@ -2949,8 +2919,7 @@ wildlife
 will
 willing
 win
-wind1
-wind2
+wind
 window
 wine
 wing

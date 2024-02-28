@@ -79,7 +79,6 @@ address
 adequate
 adequately
 adhere
-adj.
 adjacent
 adjust
 adjustment
@@ -94,7 +93,6 @@ adolescent
 adopt
 adoption
 adult
-adv.
 advance
 advanced
 advantage
@@ -152,7 +150,6 @@ align
 alignment
 alike
 alive
-all
 all
 allegation
 allege
@@ -219,7 +216,6 @@ anticipate
 anxiety
 anxious
 any
-any
 anybody
 anyone
 anything
@@ -266,7 +262,6 @@ arguably
 argue
 argument
 arise
-arm
 arm
 armed
 arms
@@ -386,7 +381,6 @@ ban
 banana
 band
 bank
-bank
 banner
 bar
 bare
@@ -403,7 +397,7 @@ basically
 basis
 basket
 basketball
-bass1
+bass
 bat
 bath
 bathroom
@@ -415,7 +409,6 @@ be
 beach
 beam
 bean
-bear
 bear
 beast
 beat
@@ -497,7 +490,6 @@ blog
 blonde
 blood
 blow
-blow
 blue
 board
 boast
@@ -528,7 +520,7 @@ bottom
 bounce
 bound
 boundary
-bow1
+bow
 bowl
 box
 boy
@@ -609,8 +601,7 @@ camp
 campaign
 camping
 campus
-can1
-can2
+can
 canal
 cancel
 cancer
@@ -765,8 +756,7 @@ clinic
 clinical
 clip
 clock
-close1
-close2
+close
 closed
 closely
 closure
@@ -962,8 +952,7 @@ contemporary
 contempt
 contend
 contender
-content1
-content2
+content
 contention
 contest
 context
@@ -1036,7 +1025,6 @@ councillor
 counselling
 counsellor
 count
-counter
 counter
 counterpart
 countless
@@ -1364,7 +1352,7 @@ divine
 division
 divorce
 divorced
-do1
+do
 doctor
 doctrine
 document
@@ -1406,7 +1394,6 @@ drift
 drink
 drive
 driver
-driving
 driving
 drop
 drought
@@ -1792,7 +1779,6 @@ financial
 find
 finding
 fine
-fine
 finger
 finish
 fire
@@ -1800,13 +1786,11 @@ firearm
 firefighter
 firework
 firm
-firm
 firmly
 first
 firstly
 fish
 fishing
-fit
 fit
 fitness
 five
@@ -2024,7 +2008,6 @@ grasp
 grass
 grateful
 grave
-grave
 gravity
 great
 greatly
@@ -2090,7 +2073,6 @@ hat
 hate
 hatred
 haunt
-have
 have
 hazard
 he
@@ -2206,7 +2188,6 @@ husband
 hydrogen
 hypothesis
 I
-ice
 ice
 icon
 ID
@@ -2472,7 +2453,6 @@ junior
 jurisdiction
 jury
 just
-just
 justice
 justification
 justify
@@ -2487,7 +2467,6 @@ kidney
 kill
 killing
 kilometre
-kind
 kind
 king
 kingdom
@@ -2522,8 +2501,7 @@ large
 large-scale
 largely
 laser
-last1
-last1
+last
 late
 lately
 later
@@ -2540,7 +2518,7 @@ lay
 layer
 layout
 lazy
-lead1
+lead
 leader
 leadership
 leading
@@ -2587,17 +2565,14 @@ liberty
 library
 licence
 license
-lie1
-lie2
+lie
 life
 lifelong
 lifestyle
 lifetime
 lift
 light
-light
 lighting
-like
 like
 likelihood
 likely
@@ -2625,8 +2600,7 @@ literature
 litre
 litter
 little
-live1
-live2
+live
 lively
 liver
 living
@@ -2646,7 +2620,7 @@ lonely
 long-standing
 long-term
 long-time
-long1
+long
 look
 loom
 loop
@@ -2812,7 +2786,6 @@ mill
 million
 mind
 mine
-mine
 miner
 mineral
 minimal
@@ -2823,8 +2796,7 @@ minister
 ministry
 minor
 minority
-minute1
-minute2
+minute
 miracle
 mirror
 miserable
@@ -2907,7 +2879,6 @@ myself
 mysterious
 mystery
 myth
-n.
 nail
 naked
 name
@@ -2946,7 +2917,6 @@ nerve
 nervous
 nest
 net
-net
 network
 neutral
 never
@@ -2957,7 +2927,6 @@ news
 newsletter
 newspaper
 next
-next
 nice
 niche
 night
@@ -2965,7 +2934,6 @@ nightmare
 nine
 nineteen
 ninety
-no
 no
 noble
 nobody
@@ -2998,14 +2966,12 @@ notify
 notion
 notorious
 novel
-novel
 novelist
 November
 now
 nowadays
 nowhere
 nuclear
-number
 number
 numerous
 nurse
@@ -3221,10 +3187,9 @@ pen
 penalty
 pencil
 penny
-pension1
+pension
 people
 pepper
-per
 per
 perceive
 percentage
@@ -3306,7 +3271,7 @@ plenty
 plot
 plug
 plunge
-plus1
+plus
 pocket
 poem
 poet
@@ -3328,7 +3293,6 @@ pollution
 pond
 pool
 poor
-pop
 pop
 popular
 popularity
@@ -3562,7 +3526,6 @@ quota
 quotation
 quote
 race
-race
 racial
 racing
 racism
@@ -3637,7 +3600,7 @@ recommendation
 reconstruction
 record
 recording
-recount1
+recount
 recover
 recovery
 recruit
@@ -3656,7 +3619,7 @@ reform
 refuge
 refugee
 refusal
-refuse1
+refuse
 regain
 regard
 regardless
@@ -3763,7 +3726,6 @@ response
 responsibility
 responsible
 rest
-rest
 restaurant
 restoration
 restore
@@ -3802,8 +3764,7 @@ ride
 ridiculous
 rifle
 right
-ring1
-ring2
+ring
 riot
 rip
 rise
@@ -3817,8 +3778,6 @@ rob
 robbery
 robot
 robust
-rock
-rock
 rock
 rocket
 rod
@@ -3838,7 +3797,7 @@ roughly
 round
 route
 routine
-row1
+row
 royal
 rub
 rubber
@@ -3884,7 +3843,6 @@ sauce
 save
 saving
 say
-say
 scale
 scan
 scandal
@@ -3918,8 +3876,7 @@ seal
 search
 season
 seat
-second1
-second1
+second
 secondary
 secondly
 secret
@@ -3967,7 +3924,6 @@ serve
 service
 session
 set
-set
 set-up
 setting
 settle
@@ -4013,7 +3969,6 @@ shock
 shocked
 shocking
 shoe
-shoot
 shoot
 shooting
 shop
@@ -4153,7 +4108,6 @@ sorry
 sort
 soul
 sound
-sound
 soup
 source
 south
@@ -4184,7 +4138,6 @@ speculate
 speculation
 speech
 speed
-spell
 spell
 spelling
 spend
@@ -4258,7 +4211,6 @@ stem
 step
 stereotype
 stick
-stick
 sticky
 stiff
 still
@@ -4292,7 +4244,6 @@ strictly
 strike
 striking
 string
-strip
 strip
 strive
 stroke
@@ -4445,8 +4396,7 @@ teach
 teacher
 teaching
 team
-tear1
-tear2
+tear
 technical
 technique
 technological
@@ -4586,11 +4536,9 @@ too
 tool
 tooth
 top
-top
 topic
 torture
 toss
-total
 total
 totally
 touch
@@ -4758,8 +4706,6 @@ us
 usage
 use
 used
-used1
-used2
 useful
 useless
 user
@@ -4768,7 +4714,6 @@ usually
 utility
 utilize
 utterly
-v.
 vacation
 vacuum
 vague
@@ -4888,7 +4833,6 @@ weird
 welcome
 welfare
 well
-well
 well-being
 west
 western
@@ -4931,8 +4875,7 @@ will
 willing
 willingness
 win
-wind1
-wind2
+wind
 window
 wine
 wing
